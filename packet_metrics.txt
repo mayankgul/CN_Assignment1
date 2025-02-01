@@ -1,0 +1,5 @@
+Total Bytes: 8128412
+Total Packets: 10732
+Min Packet Size: 46
+Max Packet Size: 1514
+Avg Packet Size: 798.6256631951268
